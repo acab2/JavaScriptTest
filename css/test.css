@@ -1,0 +1,8 @@
+
+body {
+    background-color:rgb(255, 255, 255);
+} 
+#animal {
+    dislay:block;
+    margin:20px auto;
+}
